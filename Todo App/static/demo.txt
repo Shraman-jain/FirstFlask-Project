@@ -1,2 +1,0 @@
-static is used for showing images ,videos or any sort of fie .... this is demo.txt
-As it As
